@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Trading View',
-			icon: 'chart',
+			icon: 'candlestick-chart',
 			link: 'https://www.tradingview.com/chart/',
 		},
 		{
