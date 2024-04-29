@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Trading View',
+			icon: 'chart',
+			link: 'https://www.tradingview.com/chart/',
 		},
 		{
 			id: '5',
