@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Anime',
 			icon: 'cat',
-			link: 'https://hianime.to/home',
+			link: 'https://www.miruro.tv/',
 		},
 		{
 			id: '2',
